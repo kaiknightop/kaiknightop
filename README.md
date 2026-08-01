@@ -108,7 +108,7 @@ Save hours of setup time with this Django Auth Starter Kit. It includes cleanly 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kaiknightop&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaiknightop&theme=tokyonight" alt="GitHub stats" />
 
 <img height="165" src="https://streak-stats.demolab.com?user=kaiknightop&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
 
@@ -119,7 +119,5 @@ Save hours of setup time with this Django Auth Starter Kit. It includes cleanly 
 <div align="center">
 
 ### “Build. Learn. Improve. Repeat. 👍”
-
-<img src="https://komarev.com/ghpvc/?username=kaiknightop&style=flat-square&color=38bdf8" alt="Profile views" />
 
 </div>
