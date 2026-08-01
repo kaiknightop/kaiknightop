@@ -104,11 +104,7 @@ Save hours of setup time with this Django Auth Starter Kit. It includes cleanly 
 </tr>
 </table>
 
-## GitHub at a glance
-
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaiknightop&theme=tokyonight" alt="GitHub stats" />
 
 <img height="165" src="https://streak-stats.demolab.com?user=kaiknightop&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
 
